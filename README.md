@@ -43,7 +43,7 @@ In order to fully experience the Jelly Belly Wiki application, it is essential t
    - After setting up the API and database, proceed to download and install the client UI from the `/Client` submodule. The client UI is the frontend of the application and requires the API to be operational for the full functionality.
 
 3. **Data Collection Scripts**:
-   - The data collection scripts located in the `/Data-collection` submodule have already been executed to scrape and seed the data into the API's database. Therefore, it is not necessary to run these scripts for the application to work.
+   - The data collection scripts located in the `/Data-Collection` submodule have already been executed to scrape and seed the data into the API's database. Therefore, it is not necessary to run these scripts for the application to work.
    - These scripts are included in the repository to provide insight into the data collection and preparation process, which is a fundamental aspect of this project.
 
 By following these instructions, you can ensure a smooth setup and enjoy the complete functionality of the Jelly Belly Wiki application.
