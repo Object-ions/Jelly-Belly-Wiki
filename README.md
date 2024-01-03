@@ -50,37 +50,33 @@ By following these instructions, you can ensure a smooth setup and enjoy the com
 
 ## [Technologies Used](#technologies-used)
 
-Front-End Technologies:
+Front-End:
 
 - HTML
 - CSS
 - JavaScript
 - React
-- Webpack
-- JSON
 - Jest
 
-Back-End Technologies:
+Back-End:
 
 - C#
-- ASP.NET Core
-- Entity Framework Core
 - Python
-- Postman
-- Swagger
-- Fetch API
-- Jelly Belly Wiki API
 - Selenium WebDriver
 - BeautifulSoup
+- ASP.NET Core
+- Entity Framework Core
+- Swagger
+- REST API
 
-Database Technologies:
+Database:
 
 - MySQL
 - LINQ
 
-Artificial Intelligence:
+AI:
 
-- Artificial Intelligence (AI - ChatGPT 4)
+- ChatGPT 4
 
 ## [Explore the Project](#explore-the-project)
 
