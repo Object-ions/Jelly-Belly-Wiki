@@ -52,47 +52,47 @@ By following these instructions, you can ensure a smooth setup and enjoy the com
 
 **Programming Languages and Frameworks:**
 
-- **C#**: Primary programming language for backend development.
-- **ASP.NET Core**: Framework for building high-performance web applications.
-- **Entity Framework Core**: ORM framework for data access in .NET applications.
-- **Python**: Used for web scraping and data processing.
+- **C#**
+- **ASP.NET Core**
+- **Entity Framework Core**
+- **Python**
 
 **Web Technologies:**
 
-- **HTML**: Standard markup language for creating web pages.
-- **CSS**: Style sheet language used for describing the presentation of a web page.
-- **JavaScript**: Programming language for creating interactive web pages.
-- **React**: JavaScript library for building user interfaces.
-- **Webpack**: A module bundler for JavaScript applications.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Webpack**
 
 **Database Technologies:**
 
-- **MySQL**: Database management system used for storing and retrieving data.
-- **LINQ (Language-Integrated Query)**: A .NET component that adds native data querying capabilities to .NET languages.
+- **MySQL**
+- **LINQ (Language-Integrated Query)**
 
 **API Development and Testing:**
 
-- **Postman**: Collaboration platform for API development and testing.
-- **Swagger**: Tool for documenting APIs.
-- **Fetch API**: A browser API for making asynchronous HTTP requests in JavaScript.
-- **Jelly Belly Wiki API**: Custom API developed for this project.
+- **Postman**
+- **Swagger**
+- **Fetch API**
+- **Jelly Belly Wiki API**
 
 **Web Scraping and Data Processing:**
 
-- **Selenium WebDriver**: Tool for automating web browser interactions.
-- **BeautifulSoup**: Library for pulling data out of HTML and XML files.
+- **Selenium WebDriver**
+- **BeautifulSoup**
 
 **Data Format:**
 
-- **JSON (JavaScript Object Notation)**: Data format used for storing and transporting data.
+- **JSON (JavaScript Object Notation)**
 
 **Testing:**
 
-- **TDD (Test-Driven Development) with Jest**: JavaScript testing framework used following the TDD methodology.
+- **TDD (Test-Driven Development) with Jest**
 
 **Artificial Intelligence:**
 
-- **Artificial Intelligence (AI - ChatGPT 4)**: Used for retrieving 'facts' and formatting the output.
+- **Artificial Intelligence (AI - ChatGPT 4)**
 
 ## [Explore the Project](#explore-the-project)
 
