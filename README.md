@@ -50,49 +50,37 @@ By following these instructions, you can ensure a smooth setup and enjoy the com
 
 ## [Technologies Used](#technologies-used)
 
-**Programming Languages and Frameworks:**
+Front-End Technologies:
 
-- **C#**
-- **ASP.NET Core**
-- **Entity Framework Core**
-- **Python**
+- HTML
+- CSS
+- JavaScript
+- React
+- Webpack
+- JSON
+- Jest
 
-**Web Technologies:**
+Back-End Technologies:
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Webpack**
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- Python
+- Postman
+- Swagger
+- Fetch API
+- Jelly Belly Wiki API
+- Selenium WebDriver
+- BeautifulSoup
 
-**Database Technologies:**
+Database Technologies:
 
-- **MySQL**
-- **LINQ (Language-Integrated Query)**
+- MySQL
+- LINQ
 
-**API Development and Testing:**
+Artificial Intelligence:
 
-- **Postman**
-- **Swagger**
-- **Fetch API**
-- **Jelly Belly Wiki API**
-
-**Web Scraping and Data Processing:**
-
-- **Selenium WebDriver**
-- **BeautifulSoup**
-
-**Data Format:**
-
-- **JSON (JavaScript Object Notation)**
-
-**Testing:**
-
-- **TDD (Test-Driven Development) with Jest**
-
-**Artificial Intelligence:**
-
-- **Artificial Intelligence (AI - ChatGPT 4)**
+- Artificial Intelligence (AI - ChatGPT 4)
 
 ## [Explore the Project](#explore-the-project)
 
