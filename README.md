@@ -5,7 +5,7 @@
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Live version of the UI](#live)
+2. [Live version](#live)
 3. [Project Overview](#project-overview)
 4. [Important Note for Running the Application](#important-note-for-running-the-application)
 5. [Technologies Used](#technologies-used)
@@ -19,12 +19,12 @@ The Jelly Belly Wiki Project is an integrated solution comprising a data collect
 
 ## [Live versions](#live)
 
-[Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
-[Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
+- [Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
+- [Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
 
-- The UI deployed on Netlify.com
-- The API deployed on Render.com
-- The database deployed on TiDB.com
+* The UI deployed on Netlify.com
+* The API deployed on Render.com
+* The database deployed on TiDB.com
 
 ## [Project Overview](#project-overview)
 
