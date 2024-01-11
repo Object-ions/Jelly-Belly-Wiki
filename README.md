@@ -17,7 +17,7 @@
 
 The Jelly Belly Wiki Project is an integrated solution comprising a data collection subsystem, a backend API, and a frontend client. This project showcases a comprehensive approach to full-stack web development, with a focus on the Jelly Belly candy brand. The data collection subsystem employs Python scripts for web scraping, the backend API is developed with C# .NET EF Core and MySQL, and the frontend client is built using React.
 
-## [Live version of the UI](#live)
+## [Live versions](#live)
 
 [Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
 [Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
