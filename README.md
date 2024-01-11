@@ -5,16 +5,26 @@
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Project Overview](#project-overview)
-3. [Important Note for Running the Application](#important-note-for-running-the-application)
-4. [Technologies Used](#technologies-used)
-5. [Explore the Project](#explore-the-project)
-6. [License](#license)
-7. [Contact](#contact)
+2. [Live version of the UI](#live)
+3. [Project Overview](#project-overview)
+4. [Important Note for Running the Application](#important-note-for-running-the-application)
+5. [Technologies Used](#technologies-used)
+6. [Explore the Project](#explore-the-project)
+7. [License](#license)
+8. [Contact](#contact)
 
 ## [Project Description](#project-description)
 
 The Jelly Belly Wiki Project is an integrated solution comprising a data collection subsystem, a backend API, and a frontend client. This project showcases a comprehensive approach to full-stack web development, with a focus on the Jelly Belly candy brand. The data collection subsystem employs Python scripts for web scraping, the backend API is developed with C# .NET EF Core and MySQL, and the frontend client is built using React.
+
+## [Live version of the UI](#live)
+
+[Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
+[Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
+
+- The UI deployed on Netlify.com
+- The API deployed on Render.com
+- The database deployed on TiDB.com
 
 ## [Project Overview](#project-overview)
 
@@ -50,49 +60,39 @@ By following these instructions, you can ensure a smooth setup and enjoy the com
 
 ## [Technologies Used](#technologies-used)
 
-**Programming Languages and Frameworks:**
+Front-End:
 
-- **C#**: Primary programming language for backend development.
-- **ASP.NET Core**: Framework for building high-performance web applications.
-- **Entity Framework Core**: ORM framework for data access in .NET applications.
-- **Python**: Used for web scraping and data processing.
+- HTML
+- CSS
+- JavaScript
+- React
+- Jest
 
-**Web Technologies:**
+Back-End:
 
-- **HTML**: Standard markup language for creating web pages.
-- **CSS**: Style sheet language used for describing the presentation of a web page.
-- **JavaScript**: Programming language for creating interactive web pages.
-- **React**: JavaScript library for building user interfaces.
-- **Webpack**: A module bundler for JavaScript applications.
+- C#
+- Python
+- Selenium WebDriver
+- BeautifulSoup
+- ASP.NET Core
+- Entity Framework Core
+- Swagger
+- REST API
 
-**Database Technologies:**
+Database:
 
-- **MySQL**: Database management system used for storing and retrieving data.
-- **LINQ (Language-Integrated Query)**: A .NET component that adds native data querying capabilities to .NET languages.
+- MySQL
+- LINQ
 
-**API Development and Testing:**
+AI:
 
-- **Postman**: Collaboration platform for API development and testing.
-- **Swagger**: Tool for documenting APIs.
-- **Fetch API**: A browser API for making asynchronous HTTP requests in JavaScript.
-- **Jelly Belly Wiki API**: Custom API developed for this project.
+- ChatGPT 4
 
-**Web Scraping and Data Processing:**
+Deployment:
 
-- **Selenium WebDriver**: Tool for automating web browser interactions.
-- **BeautifulSoup**: Library for pulling data out of HTML and XML files.
-
-**Data Format:**
-
-- **JSON (JavaScript Object Notation)**: Data format used for storing and transporting data.
-
-**Testing:**
-
-- **TDD (Test-Driven Development) with Jest**: JavaScript testing framework used following the TDD methodology.
-
-**Artificial Intelligence:**
-
-- **Artificial Intelligence (AI - ChatGPT 4)**: Used for retrieving 'facts' and formatting the output.
+- TiDB.com
+- Render.com
+- Netlify.com
 
 ## [Explore the Project](#explore-the-project)
 
