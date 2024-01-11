@@ -50,33 +50,49 @@ By following these instructions, you can ensure a smooth setup and enjoy the com
 
 ## [Technologies Used](#technologies-used)
 
-Front-End:
+**Programming Languages and Frameworks:**
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Jest
+- **C#**: Primary programming language for backend development.
+- **ASP.NET Core**: Framework for building high-performance web applications.
+- **Entity Framework Core**: ORM framework for data access in .NET applications.
+- **Python**: Used for web scraping and data processing.
 
-Back-End:
+**Web Technologies:**
 
-- C#
-- Python
-- Selenium WebDriver
-- BeautifulSoup
-- ASP.NET Core
-- Entity Framework Core
-- Swagger
-- REST API
+- **HTML**: Standard markup language for creating web pages.
+- **CSS**: Style sheet language used for describing the presentation of a web page.
+- **JavaScript**: Programming language for creating interactive web pages.
+- **React**: JavaScript library for building user interfaces.
+- **Webpack**: A module bundler for JavaScript applications.
 
-Database:
+**Database Technologies:**
 
-- MySQL
-- LINQ
+- **MySQL**: Database management system used for storing and retrieving data.
+- **LINQ (Language-Integrated Query)**: A .NET component that adds native data querying capabilities to .NET languages.
 
-AI:
+**API Development and Testing:**
 
-- ChatGPT 4
+- **Postman**: Collaboration platform for API development and testing.
+- **Swagger**: Tool for documenting APIs.
+- **Fetch API**: A browser API for making asynchronous HTTP requests in JavaScript.
+- **Jelly Belly Wiki API**: Custom API developed for this project.
+
+**Web Scraping and Data Processing:**
+
+- **Selenium WebDriver**: Tool for automating web browser interactions.
+- **BeautifulSoup**: Library for pulling data out of HTML and XML files.
+
+**Data Format:**
+
+- **JSON (JavaScript Object Notation)**: Data format used for storing and transporting data.
+
+**Testing:**
+
+- **TDD (Test-Driven Development) with Jest**: JavaScript testing framework used following the TDD methodology.
+
+**Artificial Intelligence:**
+
+- **Artificial Intelligence (AI - ChatGPT 4)**: Used for retrieving 'facts' and formatting the output.
 
 ## [Explore the Project](#explore-the-project)
 
